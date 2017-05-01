@@ -1,0 +1,9 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC17,Total; Estimate; Percent bachelor's degree or higher
+HC01_MOE_VC17,Total; Margin of Error; Percent bachelor's degree or higher
+HC02_EST_VC17,Male; Estimate; Percent bachelor's degree or higher
+HC02_MOE_VC17,Male; Margin of Error; Percent bachelor's degree or higher
+HC03_EST_VC17,Female; Estimate; Percent bachelor's degree or higher
+HC03_MOE_VC17,Female; Margin of Error; Percent bachelor's degree or higher
