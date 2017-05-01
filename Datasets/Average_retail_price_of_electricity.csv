@@ -6,8 +6,6 @@
 "Average retail price of electricity","cents per kilowatthour",,,,,,
 "United States : commercial","cents per kilowatthour","ELEC.PRICE.US-COM.A",10.19,10.24,10.09,10.26,10.74
 "United States : industrial","cents per kilowatthour","ELEC.PRICE.US-IND.A",6.77,6.82,6.67,6.89,7.10
-"New England : commercial","cents per kilowatthour","ELEC.PRICE.NEW-COM.A",14.72,14.31,13.68,13.97,14.70
-"New England : industrial","cents per kilowatthour","ELEC.PRICE.NEW-IND.A",12.98,12.55,11.83,12.25,11.84
 "Connecticut : commercial","cents per kilowatthour","ELEC.PRICE.CT-COM.A",16.45,15.57,14.65,14.63,15.55
 "Connecticut : industrial","cents per kilowatthour","ELEC.PRICE.CT-IND.A",14.51,13.24,12.67,12.61,12.92
 "Maine : commercial","cents per kilowatthour","ELEC.PRICE.ME-COM.A",12.51,12.29,11.53,11.74,12.70
@@ -20,16 +18,12 @@
 "Rhode Island : industrial","cents per kilowatthour","ELEC.PRICE.RI-IND.A",11.83,11.27,10.68,11.82,12.86
 "Vermont : commercial","cents per kilowatthour","ELEC.PRICE.VT-COM.A",13.44,14.00,14.32,14.66,14.56
 "Vermont : industrial","cents per kilowatthour","ELEC.PRICE.VT-IND.A",9.53,9.83,9.98,10.84,10.23
-"Middle Atlantic : commercial","cents per kilowatthour","ELEC.PRICE.MAT-COM.A",13.93,13.65,12.97,13.06,13.65
-"Middle Atlantic : industrial","cents per kilowatthour","ELEC.PRICE.MAT-IND.A",8.40,8.17,7.49,7.27,7.61
 "New Jersey : commercial","cents per kilowatthour","ELEC.PRICE.NJ-COM.A",13.89,13.47,12.78,12.77,13.15
 "New Jersey : industrial","cents per kilowatthour","ELEC.PRICE.NJ-IND.A",11.81,11.43,10.52,10.80,11.38
 "New York : commercial","cents per kilowatthour","ELEC.PRICE.NY-COM.A",16.31,15.81,15.06,15.35,16.12
 "New York : industrial","cents per kilowatthour","ELEC.PRICE.NY-IND.A",8.79,7.83,6.70,6.58,6.58
 "Pennsylvania : commercial","cents per kilowatthour","ELEC.PRICE.PA-COM.A",10.10,10.03,9.44,9.25,9.73
 "Pennsylvania : industrial","cents per kilowatthour","ELEC.PRICE.PA-IND.A",7.66,7.73,7.23,6.97,7.41
-"East North Central : commercial","cents per kilowatthour","ELEC.PRICE.ENC-COM.A",9.36,9.49,9.46,9.58,10.02
-"East North Central : industrial","cents per kilowatthour","ELEC.PRICE.ENC-IND.A",6.53,6.53,6.51,6.65,7.07
 "Illinois : commercial","cents per kilowatthour","ELEC.PRICE.IL-COM.A",8.88,8.64,7.99,8.14,9.26
 "Illinois : industrial","cents per kilowatthour","ELEC.PRICE.IL-IND.A",6.82,6.42,5.80,5.94,6.85
 "Indiana : commercial","cents per kilowatthour","ELEC.PRICE.IN-COM.A",8.38,8.77,9.14,9.60,9.96
@@ -40,8 +34,6 @@
 "Ohio : industrial","cents per kilowatthour","ELEC.PRICE.OH-IND.A",6.40,6.12,6.24,6.22,6.77
 "Wisconsin : commercial","cents per kilowatthour","ELEC.PRICE.WI-COM.A",9.98,10.42,10.51,10.74,10.77
 "Wisconsin : industrial","cents per kilowatthour","ELEC.PRICE.WI-IND.A",6.85,7.33,7.34,7.40,7.52
-"West North Central : commercial","cents per kilowatthour","ELEC.PRICE.WNC-COM.A",7.87,8.23,8.48,8.98,9.25
-"West North Central : industrial","cents per kilowatthour","ELEC.PRICE.WNC-IND.A",5.86,6.08,6.28,6.67,6.73
 "Iowa : commercial","cents per kilowatthour","ELEC.PRICE.IA-COM.A",7.91,7.85,8.01,8.44,8.67
 "Iowa : industrial","cents per kilowatthour","ELEC.PRICE.IA-IND.A",5.36,5.21,5.30,5.62,5.71
 "Kansas : commercial","cents per kilowatthour","ELEC.PRICE.KS-COM.A",8.25,8.78,9.24,9.68,10.13
@@ -56,12 +48,10 @@
 "North Dakota : industrial","cents per kilowatthour","ELEC.PRICE.ND-IND.A",5.81,6.24,6.55,7.13,7.62
 "South Dakota : commercial","cents per kilowatthour","ELEC.PRICE.SD-COM.A",7.55,7.76,8.10,8.51,8.89
 "South Dakota : industrial","cents per kilowatthour","ELEC.PRICE.SD-IND.A",6.07,6.20,6.57,6.97,6.99
-"South Atlantic : commercial","cents per kilowatthour","ELEC.PRICE.SAT-COM.A",9.29,9.46,9.37,9.38,9.68
-"South Atlantic : industrial","cents per kilowatthour","ELEC.PRICE.SAT-IND.A",6.66,6.66,6.55,6.55,6.75
 "Delaware : commercial","cents per kilowatthour","ELEC.PRICE.DE-COM.A",11.36,10.64,10.13,10.20,10.50
 "Delaware : industrial","cents per kilowatthour","ELEC.PRICE.DE-IND.A",9.57,8.91,8.36,8.43,8.58
-"District Of Columbia : commercial","cents per kilowatthour","ELEC.PRICE.DC-COM.A",13.42,12.90,12.02,11.94,12.19
-"District Of Columbia : industrial","cents per kilowatthour","ELEC.PRICE.DC-IND.A",7.74,6.89,5.46,5.54,8.41
+"District of Columbia : commercial","cents per kilowatthour","ELEC.PRICE.DC-COM.A",13.42,12.90,12.02,11.94,12.19
+"District of Columbia : industrial","cents per kilowatthour","ELEC.PRICE.DC-IND.A",7.74,6.89,5.46,5.54,8.41
 "Florida : commercial","cents per kilowatthour","ELEC.PRICE.FL-COM.A",9.76,9.85,9.66,9.39,9.87
 "Florida : industrial","cents per kilowatthour","ELEC.PRICE.FL-IND.A",8.85,8.55,8.04,7.61,7.90
 "Georgia : commercial","cents per kilowatthour","ELEC.PRICE.GA-COM.A",9.06,9.87,9.58,9.99,10.36
@@ -76,8 +66,6 @@
 "Virginia : industrial","cents per kilowatthour","ELEC.PRICE.VA-IND.A",6.66,6.49,6.72,6.63,6.89
 "West Virginia : commercial","cents per kilowatthour","ELEC.PRICE.WV-COM.A",7.66,8.14,8.42,8.17,7.99
 "West Virginia : industrial","cents per kilowatthour","ELEC.PRICE.WV-IND.A",5.86,6.18,6.33,6.20,5.87
-"East South Central : commercial","cents per kilowatthour","ELEC.PRICE.ESC-COM.A",9.34,9.80,9.87,9.81,10.34
-"East South Central : industrial","cents per kilowatthour","ELEC.PRICE.ESC-IND.A",5.83,6.19,6.11,5.98,6.13
 "Alabama : commercial","cents per kilowatthour","ELEC.PRICE.AL-COM.A",10.18,10.47,10.63,10.51,10.79
 "Alabama : industrial","cents per kilowatthour","ELEC.PRICE.AL-IND.A",6.01,6.25,6.22,5.95,6.15
 "Kentucky : commercial","cents per kilowatthour","ELEC.PRICE.KY-COM.A",7.88,8.49,8.73,8.56,9.44
@@ -86,8 +74,6 @@
 "Mississippi : industrial","cents per kilowatthour","ELEC.PRICE.MS-IND.A",6.32,6.53,6.24,6.34,6.60
 "Tennessee : commercial","cents per kilowatthour","ELEC.PRICE.TN-COM.A",9.66,10.27,10.31,10.00,10.38
 "Tennessee : industrial","cents per kilowatthour","ELEC.PRICE.TN-IND.A",6.58,7.23,7.08,6.29,6.40
-"West South Central : commercial","cents per kilowatthour","ELEC.PRICE.WSC-COM.A",8.78,8.56,7.99,8.11,8.26
-"West South Central : industrial","cents per kilowatthour","ELEC.PRICE.WSC-IND.A",6.12,6.00,5.39,5.82,6.10
 "Arkansas : commercial","cents per kilowatthour","ELEC.PRICE.AR-COM.A",7.31,7.50,7.71,8.05,8.05
 "Arkansas : industrial","cents per kilowatthour","ELEC.PRICE.AR-IND.A",5.44,5.63,5.76,6.04,6.02
 "Louisiana : commercial","cents per kilowatthour","ELEC.PRICE.LA-COM.A",8.50,8.44,7.75,8.96,9.10
@@ -96,8 +82,6 @@
 "Oklahoma : industrial","cents per kilowatthour","ELEC.PRICE.OK-IND.A",5.35,5.46,5.09,5.49,5.85
 "Texas : commercial","cents per kilowatthour","ELEC.PRICE.TX-COM.A",9.19,8.83,8.16,8.02,8.16
 "Texas : industrial","cents per kilowatthour","ELEC.PRICE.TX-IND.A",6.44,6.24,5.57,5.81,6.16
-"Mountain : commercial","cents per kilowatthour","ELEC.PRICE.MTN-COM.A",8.75,8.86,8.99,9.35,9.65
-"Mountain : industrial","cents per kilowatthour","ELEC.PRICE.MTN-IND.A",6.13,6.08,6.18,6.48,6.68
 "Arizona : commercial","cents per kilowatthour","ELEC.PRICE.AZ-COM.A",9.47,9.50,9.53,9.85,10.13
 "Arizona : industrial","cents per kilowatthour","ELEC.PRICE.AZ-IND.A",6.63,6.55,6.53,6.66,6.46
 "Colorado : commercial","cents per kilowatthour","ELEC.PRICE.CO-COM.A",9.13,9.44,9.39,9.86,10.08
@@ -114,16 +98,12 @@
 "Utah : industrial","cents per kilowatthour","ELEC.PRICE.UT-IND.A",4.93,5.10,5.62,5.87,6.08
 "Wyoming : commercial","cents per kilowatthour","ELEC.PRICE.WY-COM.A",7.42,7.72,8.24,8.57,8.88
 "Wyoming : industrial","cents per kilowatthour","ELEC.PRICE.WY-IND.A",4.98,5.41,6.03,6.42,6.61
-"Pacific Contiguous : commercial","cents per kilowatthour","ELEC.PRICE.PCC-COM.A",11.58,11.61,11.92,12.49,13.60
-"Pacific Contiguous : industrial","cents per kilowatthour","ELEC.PRICE.PCC-IND.A",7.47,7.62,7.78,8.61,9.08
 "California : commercial","cents per kilowatthour","ELEC.PRICE.CA-COM.A",13.09,13.05,13.41,14.20,15.62
 "California : industrial","cents per kilowatthour","ELEC.PRICE.CA-IND.A",9.80,10.11,10.49,11.44,12.34
 "Oregon : commercial","cents per kilowatthour","ELEC.PRICE.OR-COM.A",7.59,8.15,8.31,8.68,8.75
 "Oregon : industrial","cents per kilowatthour","ELEC.PRICE.OR-IND.A",5.40,5.47,5.59,5.80,5.97
 "Washington : commercial","cents per kilowatthour","ELEC.PRICE.WA-COM.A",7.37,7.49,7.68,7.78,7.97
 "Washington : industrial","cents per kilowatthour","ELEC.PRICE.WA-IND.A",4.08,4.09,4.13,4.23,4.32
-"Pacific Noncontiguous : commercial","cents per kilowatthour","ELEC.PRICE.PCN-COM.A",20.45,24.45,25.50,25.49,26.29
-"Pacific Noncontiguous : industrial","cents per kilowatthour","ELEC.PRICE.PCN-IND.A",19.88,25.02,26.99,26.08,26.30
 "Alaska : commercial","cents per kilowatthour","ELEC.PRICE.AK-COM.A",13.95,15.10,14.93,15.58,17.09
 "Alaska : industrial","cents per kilowatthour","ELEC.PRICE.AK-IND.A",14.14,15.71,16.82,15.83,15.66
 "Hawaii : commercial","cents per kilowatthour","ELEC.PRICE.HI-COM.A",25.93,32.37,34.88,34.05,34.21
